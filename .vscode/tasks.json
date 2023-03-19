@@ -9,7 +9,6 @@
                 "-g",
                 "${file}",
                 "${workspaceFolder}/helpers.c",
-                "${workspaceFolder}/canada.c",
                 "-o",
                 "${fileDirname}/${fileBasenameNoExtension}",
                 
