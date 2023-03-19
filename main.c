@@ -44,6 +44,7 @@ int main(int argc, char *argv[])
      * Input: Take one string
      * Output: The user input string but with order of letters reversed.
      * Example: User input hello should return olleh
+     * Hint: You should use a for loop where the iterator is i--
      **/
     printf("5. String flipper!\n");
  
